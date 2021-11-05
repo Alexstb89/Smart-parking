@@ -47,7 +47,7 @@ require 'update_slots.php';
 /* .modal-transparent */
 
 #regForm label{
-color: #000 !important; /* makes the text-black */
+color: black !important; /* makes the text-black */
 }
 
 
